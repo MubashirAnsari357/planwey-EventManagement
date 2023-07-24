@@ -1,0 +1,1 @@
+ alert('Record Insert Succesfully');
